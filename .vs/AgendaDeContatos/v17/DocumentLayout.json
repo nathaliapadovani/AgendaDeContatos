@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nathalia\\Desktop\\C#\\AgendaDeContatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13FEB3CD-F629-4FE9-A62F-C73E4DF2693E}|AgendaDeContatos\\AgendaDeContatos.csproj|c:\\users\\nathalia\\desktop\\c#\\agendadecontatos\\agendadecontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FEB3CD-F629-4FE9-A62F-C73E4DF2693E}|AgendaDeContatos\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FEB3CD-F629-4FE9-A62F-C73E4DF2693E}|AgendaDeContatos\\AgendaDeContatos.csproj|c:\\users\\nathalia\\desktop\\c#\\agendadecontatos\\agendadecontatos\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FEB3CD-F629-4FE9-A62F-C73E4DF2693E}|AgendaDeContatos\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FEB3CD-F629-4FE9-A62F-C73E4DF2693E}|AgendaDeContatos\\AgendaDeContatos.csproj|c:\\users\\nathalia\\desktop\\c#\\agendadecontatos\\agendadecontatos\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FEB3CD-F629-4FE9-A62F-C73E4DF2693E}|AgendaDeContatos\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Agenda.cs",
+              "DocumentMoniker": "C:\\Users\\Nathalia\\Desktop\\C#\\AgendaDeContatos\\AgendaDeContatos\\Agenda.cs",
+              "RelativeDocumentMoniker": "AgendaDeContatos\\Agenda.cs",
+              "ToolTip": "C:\\Users\\Nathalia\\Desktop\\C#\\AgendaDeContatos\\AgendaDeContatos\\Agenda.cs",
+              "RelativeToolTip": "AgendaDeContatos\\Agenda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T22:49:15.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\Nathalia\\Desktop\\C#\\AgendaDeContatos\\AgendaDeContatos\\Contato.cs",
+              "RelativeDocumentMoniker": "AgendaDeContatos\\Contato.cs",
+              "ToolTip": "C:\\Users\\Nathalia\\Desktop\\C#\\AgendaDeContatos\\AgendaDeContatos\\Contato.cs",
+              "RelativeToolTip": "AgendaDeContatos\\Contato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T22:44:12.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nathalia\\Desktop\\C#\\AgendaDeContatos\\AgendaDeContatos\\Program.cs",
+              "RelativeDocumentMoniker": "AgendaDeContatos\\Program.cs",
+              "ToolTip": "C:\\Users\\Nathalia\\Desktop\\C#\\AgendaDeContatos\\AgendaDeContatos\\Program.cs",
+              "RelativeToolTip": "AgendaDeContatos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T22:42:11.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

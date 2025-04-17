@@ -1,0 +1,14 @@
+C:\Users\Nathalia\Desktop\C#\AgendaDeContatos\AgendaDeContatos\bin\Debug\net8.0\AgendaDeContatos.exe
+C:\Users\Nathalia\Desktop\C#\AgendaDeContatos\AgendaDeContatos\bin\Debug\net8.0\AgendaDeContatos.deps.json
+C:\Users\Nathalia\Desktop\C#\AgendaDeContatos\AgendaDeContatos\bin\Debug\net8.0\AgendaDeContatos.runtimeconfig.json
+C:\Users\Nathalia\Desktop\C#\AgendaDeContatos\AgendaDeContatos\bin\Debug\net8.0\AgendaDeContatos.dll
+C:\Users\Nathalia\Desktop\C#\AgendaDeContatos\AgendaDeContatos\bin\Debug\net8.0\AgendaDeContatos.pdb
+C:\Users\Nathalia\Desktop\C#\AgendaDeContatos\AgendaDeContatos\obj\Debug\net8.0\AgendaDeContatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathalia\Desktop\C#\AgendaDeContatos\AgendaDeContatos\obj\Debug\net8.0\AgendaDeContatos.AssemblyInfoInputs.cache
+C:\Users\Nathalia\Desktop\C#\AgendaDeContatos\AgendaDeContatos\obj\Debug\net8.0\AgendaDeContatos.AssemblyInfo.cs
+C:\Users\Nathalia\Desktop\C#\AgendaDeContatos\AgendaDeContatos\obj\Debug\net8.0\AgendaDeContatos.csproj.CoreCompileInputs.cache
+C:\Users\Nathalia\Desktop\C#\AgendaDeContatos\AgendaDeContatos\obj\Debug\net8.0\AgendaDeContatos.dll
+C:\Users\Nathalia\Desktop\C#\AgendaDeContatos\AgendaDeContatos\obj\Debug\net8.0\refint\AgendaDeContatos.dll
+C:\Users\Nathalia\Desktop\C#\AgendaDeContatos\AgendaDeContatos\obj\Debug\net8.0\AgendaDeContatos.pdb
+C:\Users\Nathalia\Desktop\C#\AgendaDeContatos\AgendaDeContatos\obj\Debug\net8.0\AgendaDeContatos.genruntimeconfig.cache
+C:\Users\Nathalia\Desktop\C#\AgendaDeContatos\AgendaDeContatos\obj\Debug\net8.0\ref\AgendaDeContatos.dll
